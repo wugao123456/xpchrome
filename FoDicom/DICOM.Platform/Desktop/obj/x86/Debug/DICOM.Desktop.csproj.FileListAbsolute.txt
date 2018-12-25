@@ -1,0 +1,12 @@
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Platform.dll
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Platform.pdb
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Core.dll
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Core.pdb
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\Dicom.Platform.dll
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\Dicom.Platform.pdb
+E:\Project\OHIF\SCPServer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Platform.dll
+E:\Project\OHIF\SCPServer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Platform.pdb
+E:\Project\OHIF\SCPServer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Core.dll
+E:\Project\OHIF\SCPServer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\x86\Debug\Dicom.Core.pdb
+E:\Project\OHIF\SCPServer\xpchrome\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\Dicom.Platform.dll
+E:\Project\OHIF\SCPServer\xpchrome\FoDicom\DICOM.Platform\Desktop\obj\x86\Debug\Dicom.Platform.pdb

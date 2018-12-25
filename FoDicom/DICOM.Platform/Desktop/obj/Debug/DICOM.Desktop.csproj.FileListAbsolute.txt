@@ -1,0 +1,7 @@
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Platform.dll
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Platform.pdb
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Core.dll
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\bin\Debug\Dicom.Core.pdb
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\obj\Debug\DICOM.Desktop.csprojResolveAssemblyReference.cache
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\obj\Debug\Dicom.Platform.dll
+D:\03DicomViewer\xpchrome\FoDicom\DICOM.Platform\Desktop\obj\Debug\Dicom.Platform.pdb

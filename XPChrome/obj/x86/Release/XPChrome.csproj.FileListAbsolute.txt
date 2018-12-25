@@ -1,0 +1,15 @@
+H:\testcode\XPChrome\XPChrome\bin\x86\Release\XPChrome.exe
+H:\testcode\XPChrome\XPChrome\bin\x86\Release\XPChrome.pdb
+H:\testcode\XPChrome\XPChrome\bin\x86\Release\CefSharp.Core.dll
+H:\testcode\XPChrome\XPChrome\bin\x86\Release\CefSharp.dll
+H:\testcode\XPChrome\XPChrome\bin\x86\Release\CefSharp.WinForms.dll
+H:\testcode\XPChrome\XPChrome\bin\x86\Release\CefSharp.WinForms.xml
+H:\testcode\XPChrome\XPChrome\bin\x86\Release\CefSharp.xml
+H:\testcode\XPChrome\XPChrome\bin\x86\Release\CefSharp.Core.xml
+H:\testcode\XPChrome\XPChrome\obj\x86\Release\XPChrome.Form1.resources
+H:\testcode\XPChrome\XPChrome\obj\x86\Release\XPChrome.Properties.Resources.resources
+H:\testcode\XPChrome\XPChrome\obj\x86\Release\XPChrome.csproj.GenerateResource.cache
+H:\testcode\XPChrome\XPChrome\obj\x86\Release\XPChrome.csproj.CoreCompileInputs.cache
+H:\testcode\XPChrome\XPChrome\obj\x86\Release\XPChrome.csproj.CopyComplete
+H:\testcode\XPChrome\XPChrome\obj\x86\Release\XPChrome.exe
+H:\testcode\XPChrome\XPChrome\obj\x86\Release\XPChrome.pdb

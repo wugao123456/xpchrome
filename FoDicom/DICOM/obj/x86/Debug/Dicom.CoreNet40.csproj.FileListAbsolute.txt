@@ -1,0 +1,4 @@
+D:\03DicomViewer\xpchrome\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.dll
+D:\03DicomViewer\xpchrome\FoDicom\DICOM\bin\x86\Debug\Dicom.Core.pdb
+D:\03DicomViewer\xpchrome\FoDicom\DICOM\obj\x86\Debug\Dicom.Core.dll
+D:\03DicomViewer\xpchrome\FoDicom\DICOM\obj\x86\Debug\Dicom.Core.pdb

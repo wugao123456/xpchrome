@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<xml>
+  <ProxyPort>6666</ProxyPort>
+  <!--model的默认值：
+   LocalProxy //本地代理
+   PacsProxy  //Pacs代理
+   ForwardProxy //转发请求-->
+  <Model>LocalProxy</Model>
+  <Server>
+    <IP>192.168.1.218</IP>
+    <Port>8080</Port>
+  </Server>
+</xml>
